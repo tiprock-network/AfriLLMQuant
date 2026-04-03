@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#create virtual environment
+python3 -m .venv venv
 
 # Activate the environment
 source venv/bin/activate
